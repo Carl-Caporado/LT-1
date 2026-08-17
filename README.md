@@ -11,6 +11,7 @@ run it
 the user types in how many notebooks
 then the user types in the capacity of the box
 the program calculates how many notebooks can fit in one box and how many are left
+after that the program displays how many notebooks can fit in a box and how many notebooks left
 
 ##Who wrote it
 Carl P. Caporado
